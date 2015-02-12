@@ -11,7 +11,7 @@
 	},
 	{
 		"title": "Controller",
-		"image": "controller.PNG",
+		"image": "Controller.PNG",
 		"text": " Controllers control which view is rendered to the dom, determining which elemenets are displayed to the end user. The tutorials controller will be in charge of everything that is rendered inside the defined area (body in this case).  "
 	},
 	{
@@ -20,8 +20,8 @@
 		"text": " Directives are essentially markers which angular reads in order to determine DOM behavior. ng-app and ng-controller are directives. Directives can also be dynamically created, such as in the example above, which creates an array of directives for each object, which determine how to display each one. "
 	},
 	{
-		"title": "J5ON",
-		"image": "Json.PNG",
+		"title": "JSON",
+		"image": "json.PNG",
 		"author": "Json stands for Javascript Object Notation. JSON is used similarly to XML, but instead uses angle brackets and commas. The JSON file is where the object data and attributes are stored. Angular can view this as an array and access each piece of data using four angle brackets . An object attribute is placed inside. This allows for easy integration into the DOM, but still allows the server to retain control over data. "
 	}
 ]
