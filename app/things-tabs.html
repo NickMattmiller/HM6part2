@@ -1,0 +1,20 @@
+﻿<section>
+  <!--  Tab Navigation  -->
+  <ul class="nav nav-pills">
+    <li ng-class="{ active:tab.isSet(1) }">
+      <a href="thing-url" ng-click="tab.setTab(1)">url</a>
+    </li>
+    <li ng-class="{ active:tab.isSet(2) }">
+      <a href="thing-image" ng-click="tab.setTab(2)">image</a>
+    </li>
+    <li ng-class="{ active:tab.isSet(3) }">
+      <a href="thing-text" ng-click="tab.setTab(3)">text</a>
+    </li>
+  </ul>
+
+  <url ng-show="tab.isSet(1)"></turl>
+
+  <image ng-show="tab.isSet(2)"> </thing-image>
+  <!--  Review Tab's Content  -->
+  <text ng-show="tab.isSet(3)">hi</reviews>
+</section>
