@@ -22,6 +22,6 @@
 	{
 		"title": "J5ON",
 		"image": "Json.PNG",
-		"author": "Json stands for "Javascript Object Notation. JSON is used similarly to XML, but instead uses angle brackets and commas. The JSON file is where the object data and attributes are stored. Angular can view this as an array and access each piece of data using four angle brackets . An object attribute is placed inside. This allows for easy integration into the DOM, but still allows the server to retain control over data. "
+		"author": "Json stands for Javascript Object Notation. JSON is used similarly to XML, but instead uses angle brackets and commas. The JSON file is where the object data and attributes are stored. Angular can view this as an array and access each piece of data using four angle brackets . An object attribute is placed inside. This allows for easy integration into the DOM, but still allows the server to retain control over data. "
 	}
 ]
