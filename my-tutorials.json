@@ -1,7 +1,6 @@
 [
 	{
 		"title": "Intro",
-		"image": " a",
 		"text": "This tutorial will demonstrate the functionality of angularjs developing client-side web pages. Angular uses a modular approach for creating reusable and maintainable code. Angular also allows for easy communication with server side code. Angular's MVC (model view controller) approach allows much of code logic to be redistributed to the client side, reducing the load placed on back-end servers. On this page, I will demonstrate an example project which I completed (essentially this web-page). "
 	},
 	{
